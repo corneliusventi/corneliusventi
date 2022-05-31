@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cornelius Venti</h1>
 <h3 align="center">Full Stack Engineer at FWD Insurance Singapore</h3>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/corneliusventi/portfolio)
+- 🔭 I’m currently working on [Timeist](https://timeist.vercel.app/)
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
