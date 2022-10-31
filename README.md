@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on side project: [Timeist](https://timeist.corneliusventi.dev)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **iOS Development and Swift**
 
 - 👨‍💻 All of my projects are available at [https://corneliusventi.dev/](https://corneliusventi.dev/)
 
