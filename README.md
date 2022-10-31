@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cornelius Venti</h1>
-<h3 align="center">Javascript Engineer | Full Stack Development | Typescript | Next.js | React.js | Nuxt.js | Vue.js | Nest.js | Node.js | HTML | CSS | Javascript</h3>
+<h3 align="center">Frontend Engineer | Frontend Development | Typescript | Next.js | React.js | Nuxt.js | Vue.js | Nest.js | Node.js | HTML | CSS | Javascript</h3>
 
 <p align="left"> <a href="https://twitter.com/corneliusventi" target="blank"><img src="https://img.shields.io/twitter/follow/corneliusventi?logo=twitter&style=for-the-badge" alt="corneliusventi" /></a> </p>
 
 - 🔭 I’m currently working on side project: [Timeist](https://timeist.corneliusventi.dev)
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://corneliusventi.dev/](https://corneliusventi.dev/)
 
