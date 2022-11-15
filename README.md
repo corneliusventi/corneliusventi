@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/corneliusventi" target="blank"><img src="https://img.shields.io/twitter/follow/corneliusventi?logo=twitter&style=for-the-badge" alt="corneliusventi" /></a> </p>
 
-- 🔭 I’m currently working on side project: [Timeist](https://timeist.corneliusventi.dev)
+- 🔭 I’m currently working on side project: [Timeist](https://timeist.app)
 
 - 🌱 I’m currently learning **iOS Development and Swift**
 
