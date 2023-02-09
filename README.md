@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cornelius Venti</h1>
-<h3 align="center">Frontend Engineer | Frontend Development | Typescript | Next.js | React.js | Nuxt.js | Vue.js | Nest.js | Node.js | HTML | CSS | Javascript</h3>
+<h3 align="center">Full Stack Engineer | Typescript | Next.js | React.js | Tailwind CSS</h3>
 
 <p align="left"> <a href="https://twitter.com/corneliusventi" target="blank"><img src="https://img.shields.io/twitter/follow/corneliusventi?logo=twitter&style=for-the-badge" alt="corneliusventi" /></a> </p>
 
