@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Vue.js, Nuxt.js and Nest.js**
 
-- 📄 Know about my experiences [https://corneliusventi.dev/corneliusventi.pdf](https://corneliusventi.dev/corneliusventi.pdf)
-
 - Working with me [https://www.fiverr.com/corneliusventi](https://www.fiverr.com/corneliusventi)
 
 <h3 align="left">Languages and Tools:</h3>
