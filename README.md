@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on side project: [Timeist](https://timeist.app)
 
-- 🌱 I’m currently learning **iOS Development and Swift**
+- 🌱 I’m currently learning **Next.js and React.js**
 
 - 👨‍💻 All of my projects are available at [https://corneliusventi.dev/](https://corneliusventi.dev/)
 
