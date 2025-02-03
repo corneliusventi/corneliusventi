@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Senior Full Stack Developer with 6+ years of experience building and maintaining responsive websites & APIs in Orange Multimedia, Satumarket, FWD Insurance and Proxycurl. Recently, I led and managed the development of Teams feature implementation, including user management, team creation workflows, and access control systems.
+
 <!--
 **corneliusventi/corneliusventi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
