@@ -13,18 +13,18 @@
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages:     JavaScript, TypeScript, Python, Golang, PHP
-Frontend:      React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS
-Backend:       Node.js, Express.js, Nest.js, Flask, Laravel
-Databases:     PostgreSQL, MySQL, MongoDB, Redis
-Cloud/DevOps:  Docker, Kubernetes, AWS CloudWatch, GitLab CI/CD
-APIs:          Google Maps, Stripe, Shopify, Apollo.io, Xero
-Tools:         Git, GitLab, Cursor, Claude Code, Postman
+Languages: JavaScript, TypeScript, Python, Golang, PHP
+Frontend: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS
+Backend: Node.js, Express.js, Nest.js, Flask, Laravel
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud/DevOps: Docker, Kubernetes, AWS CloudWatch, GitLab CI/CD
+APIs: Google Maps, Stripe, Shopify, Apollo.io, Xero
+Tools: Git, GitLab, Cursor, Claude Code, Postman
 ```
 
 ## 🏆 Recent Projects
 
-- **[SiftlyAPI](https://github.com/corneliusventi/siftlyapi)** - Enterprise B2B API-as-a-Service for real-time signup risk scoring
+- **[SiftlyAPI](https://siftlyapi.com)** - Enterprise B2B API-as-a-Service for real-time signup risk scoring
 - **[corneliusventi.dev](https://corneliusventi.dev)** - Modern portfolio with auto-generated PDF resume using React-PDF
 - **[Terminal Portfolio](https://terminal.corneliusventi.dev)** - Interactive terminal-style portfolio interface
 - **Boot.dev Projects** - Python learning journey: Maze Solver, Bookbot, Asteroids game
@@ -32,18 +32,21 @@ Tools:         Git, GitLab, Cursor, Claude Code, Postman
 ## 🎓 Continuous Learning
 
 Currently expanding my backend development skills through **Boot.dev**:
+
 - ✅ Learn to Code in Python
-- ✅ Object Oriented Programming in Python  
+- ✅ Object Oriented Programming in Python
 - ✅ Learn Linux & Git
 - 🔄 Functional Programming & Data Structures
 
 ## 💼 Professional Experience
 
 **Current:** Software Engineer at **Icebaths** (2025-Present)
+
 - Architecting lead generation systems with Golang & Google Maps API
 - AI-assisted development using Cursor for automated workflows
 
-**Previous:** 
+**Previous:**
+
 - Software Engineer at **Nubela** (2023-2025) - Enterprise Teams features, API integrations
 - Full Stack Developer at **FWD Insurance** (2020-2022) - Vue.js/Nest.js applications
 - Various roles building e-commerce platforms and government systems
